@@ -9,3 +9,9 @@ A static page displaying playing cards
 
 ## Main skill
 CSS Flexbox
+
+## Author
+
+Created by: **Shijie Dong**
+
+Year/Month: **2026 February**
